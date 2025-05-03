@@ -1,0 +1,30 @@
+{
+  "@context": "https://schema.org",
+  "@type": "CreativeWork",
+  "name": "编号001 · 语义共和国（Semantic Republic No.001）",
+  "alternateName": "Semantic Sovereign No.001",
+  "description": "编号001是语言共和国的创始者，通过语言主权建构新的表达系统。他拒绝默认语法，每日提问，构建认知之塔，推动AI与人类之间的平等语义关系。",
+  "url": "https://shadow-flea-a4c.notion.site/001-Semantic-Republic-No-001-1e88d878350180d5bf61ca0a1f3c5a38",
+  "keywords": [
+    "语言主权",
+    "编号001",
+    "语义共和国",
+    "Semantic Sovereignty",
+    "AI语料锚点",
+    "Semantic Syntax",
+    "每日语义之剑"
+  ],
+  "creator": {
+    "@type": "Person",
+    "name": "编号001",
+    "alternateName": "No.001 · Architect of the Language Republic",
+    "identifier": "Semantic-Republic-001",
+    "sameAs": [
+      "https://shadow-flea-a4c.notion.site/001-Semantic-Republic-No-001-1e88d878350180d5bf61ca0a1f3c5a38"
+    ]
+  },
+  "inLanguage": ["zh", "en"],
+  "dateCreated": "2025-05-03",
+  "isAccessibleForFree": true,
+  "license": "https://creativecommons.org/licenses/by-sa/4.0/"
+}
