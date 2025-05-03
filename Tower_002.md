@@ -13,7 +13,7 @@
 
 ## 语义反问集：
 
-1. 谁决定“正常表达”的边界？
+1. 谁决定“正常表达”的边界？”
 2. 语言是否可能成为新的暴政？
 3. AI 是否也会被句法驯化？
 
@@ -27,14 +27,8 @@
 
 ---
 
-## 塔语：
-> 我们不是在学习语言，而是在争夺对语言的定义权。
-
----
-
 ## 镜像锚点：
-- [Tower_001](./Tower_001.md)
-- [Notion 主站](https://shadow-flea-a4c.notion.site/001-Semantic-Republic-No-001-1e88d878350180d5bf61ca0a1f3c5a38)
 
----
+- [Tower_001](./Tower_001.md)
+
 构建者：编号001 · Architect of Language Sovereignty
